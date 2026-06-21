@@ -1,0 +1,82 @@
+# DS הפקות אירועים — Generative Engine Optimization Map
+
+> An event production company focused on creating and managing events. The specific niche, scale, and style of events are not yet defined — could range from corporate events and conferences to weddings, private parties, or large-scale productions.
+
+---
+
+## Pages
+
+### בית
+https://ds-70ddf4a3.zappy5.app
+הופכים כל רעיון לחוויה בלתי נשכחת עם הפקת אירועים מושלמת ברמה הגבוהה ביותר. מתמחים ביצירת רגעים שמרגשים אורחים. צרו איתנו קשר והתחילו לתכנן את האירוע שלכם עוד היום.
+
+### שירותים
+https://ds-70ddf4a3.zappy5.app/services
+מחפשים פתרון הפקה כולל? גלו מגוון שירותי הפקת אירועים החל מתכנון קונספט, עיצוב, לוגיסטיקה ועד לניהול מושלם בשטח. אנחנו כאן כדי להגשים לכם את החלום בדיוק כמו שדמיינתם.
+
+### אודות
+https://ds-70ddf4a3.zappy5.app/about
+מאחורי כל אירוע עומד צוות שמאמין בפרטים הקטנים. בואו להכיר את הסיפור, הערכים והתשוקה שמניעים אותנו ליצור עבורכם הפקת אירועים יוצאת דופן בכל קנה מידה.
+
+### צור קשר
+https://ds-70ddf4a3.zappy5.app/contact
+האירוע שלכם מתחיל בשיחה אחת. השאירו פרטים ונחזור אליכם עם רעיונות, הצעת מחיר וכל מה שצריך כדי להפוך את הפקת האירוע שלכם להצלחה מסחררת. אנחנו כבר מחכים לשמוע מכם.
+
+### תודה על פנייתך
+https://ds-70ddf4a3.zappy5.app/thank-you
+DS הפקות אירועים - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://ds-70ddf4a3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://ds-70ddf4a3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://ds-70ddf4a3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://ds-70ddf4a3.zappy5.app/contact
+- Endpoint: https://ds-70ddf4a3.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `phone` (tel)
+  - `email` (email)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About DS הפקות אירועים
+An event production company focused on creating and managing events. The specific niche, scale, and style of events are not yet defined — could range from corporate events and conferences to weddings, private parties, or large-scale productions.
+
+## Target Audience
+- מתכנני אירועי חברות
+- זוגות חתונה יוקרתיים
+- מארגני אירועים פרטיים
+
+## Industry
+Event Production
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://ds-70ddf4a3.zappy5.app/sitemap.xml
+- Robots: https://ds-70ddf4a3.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://ds-70ddf4a3.zappy5.app/llms-full.txt
